@@ -4,7 +4,7 @@ This is my home page! My name is Skylar Martinez and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/FanvickTV/FanvickTV.git.
+My GitHub page is http://github.com/FanvickTV.
 
 ### CPSC 120
 
